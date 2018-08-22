@@ -11,6 +11,11 @@ public class Alphabets
 		t();i();n();a();
 		System.out.println();
 		
+		
+		System.out.println("itn");
+		i();t();n();
+		System.out.println();
+		
 		System.out.println("sam");
 		s(); a();  m();
 		System.out.println();
